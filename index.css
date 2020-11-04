@@ -1,0 +1,13 @@
+.block200 {
+    border: 1px solid paleturquoise;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    
+}
+.block400 {
+    border: 1px solid paleturquoise;
+    width: 400px;
+    height: 400px;
+    
+}
